@@ -1,0 +1,11 @@
+.banner{
+    background:var(--azul-degrade) ;
+    color:var(--branco) ;
+    text-align: center;
+    padding: 2.5em 2em;
+}
+.banner_pesquisa{
+    text-align: center;
+    width: 15rem;
+    border-radius: 5vh;
+}
